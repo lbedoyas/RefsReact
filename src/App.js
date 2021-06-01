@@ -7,6 +7,7 @@ import { PropEspecial } from './components/propEspecial';
 function App() {
   return (
     <div className="App">
+	<h1>Ref React</h1>
      <RefsBasic />
      <LibreriasExternas />
      <PropEspecial />
